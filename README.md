@@ -1,6 +1,6 @@
 # Offdelay HA Add-ons
 
-This repository (`ha-addons-edge`) serves as the origin/source repository for Offdelay's Home Assistant add-ons. It feeds into two separate repositories that can be added to the Home Assistant add-on store: the stable `ha-addons` repository and the edge repository.
+This repository should be used as the default repository for Offdelay's Home Assistant add-ons.
 
 ## Which Repository Should You Use?
 
