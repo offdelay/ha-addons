@@ -48,4 +48,4 @@ For most users, we recommend installing the stable version:
 3. Select an add-on and click Install
 4. Start the add-on and configure as needed
 
-**Note**: You can install both repositories, but be aware that add-ons will appear with the same name in home assistant.
+**Note**: You can install both repositories, but be aware that add-ons will appear with the same name in Home Assistant.
